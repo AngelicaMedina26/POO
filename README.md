@@ -1,2 +1,1 @@
-# Proyecto en C++ con clases. 
-# Servicio de Streaming
+# Proyecto en C++ usando clases. Servicio de Streaming
